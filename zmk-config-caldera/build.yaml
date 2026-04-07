@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: nice_nano//zmk
+  - board: nice_nano/nrf52840
     shield: caldera_left
-  - board: nice_nano//zmk
+  - board: nice_nano/nrf52840
     shield: caldera_right
-  - board: nice_nano//zmk
+  - board: nice_nano/nrf52840
     shield: settings_reset
